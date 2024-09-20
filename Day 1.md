@@ -1,16 +1,16 @@
 # Machine Learning Foundation
 
-Before starting, someone should have prerequisite knowledge in the following topics from mathematics and statistics:
+Before starting, it's essential to have prerequisite knowledge in the following topics from mathematics and statistics:
 
 - **Differentiability and Derivatives**
-- **Critical Points**: Local maxima and local minima
+- **Critical Points**: Local maxima and minima
 - **Linear Algebra**: Vectors, determinants, linear equations, matrices
 - **Dimensions, Rank, and Null Space**
 - **Derivatives and Directional Derivatives**
 
 ## Week 1: Introduction to Machine Learning
 
-In this first week, we will cover the basics of machine learning, including important terms and concepts. It's essential to understand how functions work in machine learning.
+In this first week, we will cover the basics of machine learning, including important terms and concepts. Understanding how functions work in machine learning is essential.
 
 ### Topic 1: What is a Regression Model?
 
@@ -26,7 +26,7 @@ At the programming level, humans create tools to handle data. In machine learnin
 
 ### Machine Learning Algorithm Overview
 
-In a machine learning algorithm (like any model), the process can be summarized as follows:
+In a machine learning algorithm, the process can be summarized as follows:
 
 1. **Input**: The data we provide.
 2. **Software**: The machine learning model (like the regression model) processes the data.
@@ -35,6 +35,22 @@ In a machine learning algorithm (like any model), the process can be summarized 
 
 In essence, when humans create a regression model, they are building software that uses specific formulas to analyze the data and generate results.
 
-The tasks that involve large amounts of data and require substantial effort can often be performed more efficiently by machine learning. There are many examples where humans are ultimately incapable of doing what machines can do.
+Tasks that involve large amounts of data and require substantial effort can often be performed more efficiently by machine learning. There are many examples where humans are ultimately incapable of doing what machines can do.
 
-![Comparison](images/ml-vs-dp-vs-ai.png)
+## Concepts Covered
+
+1. **Popularity of Machine Learning**  
+   ![Comparison](images/ml-vs-dp-vs-ai.png)
+
+2. **Important Data Types for Model Training**  
+   Understanding complex data types is crucial. Humans naturally interpret complicated data, like speech, while machines can learn to do so as well. Text data also plays a key role in semantic understanding.
+
+3. **Different Domains/Verticals Where Machine Learning is Used**  
+   Machine learning has applications across various sectors, enhancing decision-making and automation.
+
+4. **What is and is Not Machine Learning**  
+   - **Not**: Procedural, memorized, or magical.
+   - **Is**: Data-driven, generalized (learning to perform well with unseen data), based on mathematical principles.
+
+5. **Concrete Examples of Machine Learning Problems**  
+   Real-world scenarios that illustrate the effectiveness of machine learning solutions.

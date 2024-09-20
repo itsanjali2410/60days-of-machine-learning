@@ -4,3 +4,18 @@ Before starting someone should have pre-requisite topics from mathematics and St
 Differentiability and derivative
 Critical points: Local maxima and local minima
 Linear Algebra(Vectors, Determinant, Linear equations, Matrix)
+Dimensions, Rank, and Null space
+Derivatives and Directional derivatives.
+
+Further, In machine learning, we should know how a function works.
+
+Regression modal:
+It has a set of input values that give output in a label form. It should learn the modal function of working so it can take the input and manipulate it according to the regression modal.
+Nowadays we learn machine learning to give tools sufficient data and algorithms to convert input to output.
+
+A simple task of identifying a password:
+when someone types a password it sends it to the server then it searches for suitable files if it passes then it is competing 
+
+Algorithm of machine learning (any modal)
+Input >>> Software >>> output
+          human creating regression modal is a software on that formula it works on.

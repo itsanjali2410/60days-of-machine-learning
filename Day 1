@@ -7,15 +7,30 @@ Linear Algebra(Vectors, Determinant, Linear equations, Matrix)
 Dimensions, Rank, and Null space
 Derivatives and Directional derivatives.
 
-Further, In machine learning, we should know how a function works.
+Week 1: Introduction to Machine Learning
+In this first week, we will cover the basics of machine learning, including important terms and concepts. It's essential to understand how functions work in machine learning.
 
-Regression modal:
-It has a set of input values that give output in a label form. It should learn the modal function of working so it can take the input and manipulate it according to the regression modal.
-Nowadays we learn machine learning to give tools sufficient data and algorithms to convert input to output.
+Topic 1
+What is a Regression Model?
+A regression model takes a set of input values and produces an output, usually in the form of a label. The model learns how to process the input data so it can accurately provide the corresponding output based on the input.
 
-A simple task of identifying a password:
-when someone types a password it sends it to the server then it searches for suitable files if it passes then it is competing 
+Today, we use machine learning to equip tools with enough data and algorithms, allowing them to convert inputs into outputs effectively.
 
-Algorithm of machine learning (any modal)
-Input >>> Software >>> output
-          human creating regression modal is a software on that formula it works on.
+Example: Password Verification
+Consider a simple task like checking a password. When someone types in their password, it is sent to the server. The server then checks if the password matches any stored records. If it does, access is granted.
+
+At the programming level, humans create tools to handle data. In machine learning, instead of giving detailed instructions, humans provide general guidelines. The machine learns how to perform tasks on its own based on those instructions.
+
+Machine Learning Algorithm Overview
+In a machine learning algorithm (like any model), the process can be summarized as follows:
+
+Input: The data we provide.
+Software: The machine learning model (like the regression model) processes the data.
+Output: The result or prediction that comes from the model.
+Tools: The tool has a set of data on which the machine learning algorithm will work and provide the output.
+In essence, when humans create a regression model, they are building software that uses a specific formula to analyze the data and generate results.
+
+The tasks that have most of the data and require much more work to convey the task. that can be done by machine learning.
+We have so many examples where humans are incapable of doing the things that are done by machines eventually.
+
+machine learning are fundamental to 

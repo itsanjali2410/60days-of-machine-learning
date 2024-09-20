@@ -31,6 +31,7 @@ Tools: The tool has a set of data on which the machine learning algorithm will w
 In essence, when humans create a regression model, they are building software that uses a specific formula to analyze the data and generate results.
 
 The tasks that have most of the data and require much more work to convey the task. that can be done by machine learning.
-We have so many examples where humans are incapable of doing the things that are done by machines eventually.
+We have so many examples where humans are eventually incapable of doing what machines do.
 
-machine learning are fundamental to 
+![Alt Text](images/ml-vs-dl-vs-ai.png)
+

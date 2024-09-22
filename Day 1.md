@@ -54,3 +54,10 @@ Tasks that involve large amounts of data and require substantial effort can ofte
 
 5. **Concrete Examples of Machine Learning Problems**  
    Real-world scenarios that illustrate the effectiveness of machine learning solutions.
+
+## Important Types of Data in Machine Learning Models
+
+- [ ] Text
+- [ ] Speech
+- [ ] Vision
+

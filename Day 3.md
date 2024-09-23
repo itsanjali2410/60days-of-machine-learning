@@ -5,7 +5,10 @@
 - **R^d**: d-dimensional vector of real numbers
 - \((x_1)^2\): Square of the first coordinate of the vector \(x\)
 - **Mode of \(x\)**: Length of \(x\)
-- \(1(2 \text{ is even}) = 1\), \(1(2 \text{ is even}) = 0\)
+- \(1(2 \text{ is even}) = 1\), \(1(2 \text{ is odd}) = 0\)
+for example 1(355 % 2 = 1) this tends to odd outcome should be 0
+            1(786 % 2 = 0) this tends to even outcome should be 1
+
 
 ## Overview
 Supervised learning involves **curve fitting**, which is similar to what you might have done in school by joining points on a graph. This encompasses both regression and classification learning.

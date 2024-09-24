@@ -4,7 +4,7 @@ Unsupervised learning is a type of machine learning where the goal is to underst
 
 ### Major Tasks in Unsupervised Learning
 
-1. **Dimensionality Reduction**: Reducing the number of features (dimensions) in the data while retaining important information.
+1. **Dimensionality Reduction**(compression & classification): Reducing the number of features (dimensions) in the data while retaining important information.
 2. **Clustering**: Grouping data points into similar categories.
 
 ## Dimensionality Reduction Simplified

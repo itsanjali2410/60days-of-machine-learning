@@ -9,8 +9,7 @@ Representation learning is a subfield of unsupervised learning that focuses on e
 Unsupervised learning techniques allow us to discover patterns in data without predefined labels. This process is crucial for extracting useful information from datasets that may not have explicit guidance.
 
 ### Compression and Comprehension
-- **Compression**: In representation learning, we often aim to compress the data by reducing its dimensionality while retaining the most important information. This helps in managing data more efficiently and can lead to faster processing times.
-- **Comprehension**: Alongside compression, we want to comprehend the underlying structure of the data. This involves learning representations that allow for better understanding and interpretation of the data.
+comprehension is nothing but compress the things you have learned. Explain something you have conprehentated, which means you have compressed the things to you.
 
 ## Important Terms
 

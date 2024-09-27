@@ -41,6 +41,7 @@ Classification modal = L = (f(x_i) != y_i)
 Regression modal L = (f(x_i) - y_i)^2
 \]
 
+We eveluate the modal on the basis of Test data and selection of modal on the basis of validation of data.
 This loss function quantifies how far \(f(x_i)\) is from \(y_i\). The goal is to minimize this loss, ensuring that:
 - \(f(x_i)\) is not too much above \(y_i\)
 - \(f(x_i)\) is not too much below \(y_i\)

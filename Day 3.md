@@ -36,8 +36,9 @@ The data values are represented in the form of tuples \((x_i, y_i)\), where:
 ### Loss Function
 To evaluate our predictions, we consider the function \(f(x_i)\) which represents our model's predicted price for features \(x_i\). The loss can be captured using the squared difference:
 
+Classification modal = L = (f(x_i) != y_i)
 \[
-L = (f(x_i) - y_i)^2
+Regression modal L = (f(x_i) - y_i)^2
 \]
 
 This loss function quantifies how far \(f(x_i)\) is from \(y_i\). The goal is to minimize this loss, ensuring that:

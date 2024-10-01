@@ -11,3 +11,5 @@ the first component In PCA captures the most variance in the dataset
 When the number of features becomes large, the time complexity of PCA goes high.
 Features in the dataset have non-linear relationships.
 
+PCA tries to find Eigrnvectors,
+How can we do that, Here is a example 

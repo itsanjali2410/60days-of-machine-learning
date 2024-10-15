@@ -1,0 +1,4 @@
+Linear regression is a type of study or analysis used on some sample of data to predict unknown value of data.
+It is a supervised machine learning algorithm and it involves independent variable and one dependent variable(simple), more than one independent variable and oen dependent variable.
+
+Rank of A = A(transpose)* A

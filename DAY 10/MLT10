@@ -1,0 +1,72 @@
+# Summary of Key Concepts
+
+## 1. Eigenvalues and Eigenvectors
+
+### Definitions:
+- **Eigenvalues** \( \lambda \) satisfy the equation:
+  \[
+  A\mathbf{v} = \lambda \mathbf{v}
+  \]
+  where \( A \) is a square matrix and \( \mathbf{v} \) is the corresponding eigenvector.
+
+### Finding Eigenvectors:
+- For a given eigenvalue \( \lambda \), find the eigenvectors by solving:
+  \[
+  (A - \lambda I)\mathbf{v} = 0
+  \]
+- Form the matrix \( A - \lambda I \) and row reduce to find solutions.
+
+### Properties:
+- Eigenvalues of a symmetric matrix are real.
+- Eigenvectors corresponding to distinct eigenvalues are linearly independent.
+
+---
+
+## 2. Orthogonal Matrices and Projection Matrices
+
+### Orthogonal Matrices:
+- Eigenvalues have absolute values of 1.
+- The transpose is the inverse.
+
+### Projection Matrices:
+- Eigenvalues are either \( 0 \) or \( 1 \).
+- An orthogonal projection matrix maintains these properties.
+
+---
+
+## 3. Determinant and Trace
+
+### Determinant:
+- The determinant of a matrix is the product of its eigenvalues.
+
+### Trace:
+- The trace of a matrix is the sum of its eigenvalues.
+
+---
+
+## 4. Fibonacci Series
+
+### Finding the 110th Term:
+- Use Binet's formula:
+  \[
+  F(n) = \frac{\phi^n - \psi^n}{\sqrt{5}}
+  \]
+  where \( \phi \) is the golden ratio and \( \psi \) is its conjugate. The 110th term is \( 591286729879 \).
+
+---
+
+## 5. Second-Degree Polynomial Fitting
+
+### Polynomial Form:
+- A second-degree polynomial is of the form:
+  \[
+  f(x) = ax^2 + bx + c
+  \]
+
+### Steps to Fit a Polynomial:
+1. Collect data points \( (x_i, y_i) \).
+2. Set up the system of equations based on:
+   \[
+   y_i = ax_i^2 + bx_i + c
+   \]
+3. Use matrix representation to solve for \( a \), \( b \), and \( c \) using least squares or direct methods.

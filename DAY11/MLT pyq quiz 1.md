@@ -53,7 +53,7 @@
 - **Definition**: A kernel function computes the inner product of two vectors in a higher-dimensional space without explicit mapping.
 ## Types of Kernels
 
-![Types of Kernels](screeb.png)
+![Types of Kernels](images/Screenshot_1.png)
 
 - **Benefits**:
   - **Non-linearity**: Enables modeling of complex relationships.

@@ -51,23 +51,10 @@
 
 ## 6. Kernel Function
 - **Definition**: A kernel function computes the inner product of two vectors in a higher-dimensional space without explicit mapping.
-- **Types of Kernels**:
-  - **Linear Kernel**: 
-    \[
-    k(\mathbf{x}, \mathbf{y}) = \mathbf{x}^T \mathbf{y}
-    \]
-  - **Polynomial Kernel**: 
-    \[
-    k(\mathbf{x}, \mathbf{y}) = (\mathbf{x}^T \mathbf{y} + c)^d
-    \]
-  - **Radial Basis Function (RBF) Kernel**: 
-    \[
-    k(\mathbf{x}, \mathbf{y}) = \exp\left(-\frac{||\mathbf{x} - \mathbf{y}||^2}{2\sigma^2}\right)
-    \]
-  - **Sigmoid Kernel**: 
-    \[
-    k(\mathbf{x}, \mathbf{y}) = \tanh(\alpha \mathbf{x}^T \mathbf{y} + c)
-    \]
+## Types of Kernels
+
+![Types of Kernels](screeb.png)
+
 - **Benefits**:
   - **Non-linearity**: Enables modeling of complex relationships.
   - **Efficiency**: Reduces computational costs with the kernel trick.
